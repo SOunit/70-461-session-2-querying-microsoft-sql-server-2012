@@ -1,0 +1,4 @@
+- developer edition
+  - full function
+  - only for develop and test
+  - not for production
